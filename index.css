@@ -1,0 +1,13 @@
+.outerBox{
+    border: 2px solid red;
+    height: 70vh;
+    position: relative;
+}
+
+.closeButton{
+    border: 2px solid purple;
+    position: absolute;
+    right:10px;
+    bottom: 10px;
+
+}
